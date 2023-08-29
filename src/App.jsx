@@ -1,10 +1,12 @@
-import './styles.css'
+import { Header } from './components/Header'
+import './global.css'
 
 export function App() {
 
   return (
     <>
-      Hello World
+      <Header />
+      opa
     </>
   )
 }
