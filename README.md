@@ -19,6 +19,9 @@
    <a href="#speech_balloon-contact">
       <img src="https://img.shields.io/badge/CONTACT-106A51?style=for-the-badge&logo=maildotru&logoColor=white" />
    </a>
+   <a href="https://ignite-feed-mmjhyflzc-joeyanovich.vercel.app/">
+      <img src="https://img.shields.io/badge/SEE_THE_PROJECT-106A51?style=for-the-badge&logo=vercel&logoColor=white" />
+   </a>
 </div>
 <br>
 
