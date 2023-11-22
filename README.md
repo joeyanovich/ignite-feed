@@ -10,6 +10,10 @@
       <img src="https://img.shields.io/badge/LAYOUT-106A51?style=for-the-badge&logo=CSS3&logoColor=white" />
    </a>
    <a href="#technologist-technologies">
+      <img src="https://img.shields.io/badge/TECHNOLOGIES-106A51?style=for-the-badge&logo=codacy&logoColor=white
+" />
+   </a>
+   <a href="#clipboard-how-to-use">
       <img src="https://img.shields.io/badge/HOW_TO_USE-106A51?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
    </a>
    <a href="#speech_balloon-contact">
