@@ -81,7 +81,7 @@ npm run dev
    <a href="mailto:joedison.dias@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-106A51?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
-   <a href="https://www.linkedin.com/in/joedisondias/">
+   <a href="https://www.linkedin.com/in/joedisondias/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-106A51?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 </div>
