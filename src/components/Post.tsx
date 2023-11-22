@@ -101,13 +101,13 @@ export function Post({ post }: PostProps) {
 					placeholder='Deixe um comentário'
 					value={newCommentText}
 					onChange={handleNewCommentChange}
-          onInvalid={handleNewCommentInvalid}
-          required
+					onInvalid={handleNewCommentInvalid}
+					required
 				/>
 				<footer>
 					<button type='submit' disabled={isNewCommentEmpty}>
-            Publicar
-          </button>
+						Publicar
+					</button>
 				</footer>
 			</form>
 
